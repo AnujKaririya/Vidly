@@ -4,6 +4,8 @@ Vidly is a full-stack video sharing platform inspired by YouTube. It allows user
 
 The project is built using JavaScript, Node.js, Express.js, MongoDB, and a custom frontend.
 
+# Live Demo: https://frontend-7l86.onrender.com 
+
 ## 🚀 Features
 
 ### 🔐 Authentication & User Management
